@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>3EB2D0B1-502E-443E-81AD-505616F305ED</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3EB2D0B1-502E-443E-81AD-505616F305ED.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>biterra project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>biterra</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace biterra with scheme biterra and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>574515962.09858704</real>
+			<key>timeStoppedRecording</key>
+			<real>574515967.03366995</real>
+			<key>title</key>
+			<string>Building workspace biterra with scheme biterra and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>3EB2D0B1-502E-443E-81AD-505616F305ED</string>
+		</dict>
+		<key>9187F7C6-FE1E-4A86-B3D2-6558BF9E01E2</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9187F7C6-FE1E-4A86-B3D2-6558BF9E01E2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>biterra project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>biterra</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace biterra with scheme biterra and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>574515787.81476998</real>
+			<key>timeStoppedRecording</key>
+			<real>574515815.81747305</real>
+			<key>title</key>
+			<string>Building workspace biterra with scheme biterra and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>9187F7C6-FE1E-4A86-B3D2-6558BF9E01E2</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
